@@ -1,0 +1,21 @@
+<div class="panel-body">
+                <div class="table-responsive table-bordered">
+                <table id="myTable">
+<thead>
+                            <tr>
+
+                                <th>
+                                    #
+                                </th>
+                                <th>
+                                    Date
+                                </th>
+                                <th>
+                                    Amount
+                                </th>
+                                <th>
+                                Delete
+                                </th>
+                       </thead>
+                       
+                      <tbody>

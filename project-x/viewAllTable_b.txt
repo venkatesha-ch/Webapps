@@ -1,0 +1,17 @@
+<tr>
+<td>
+sl_no
+</td>
+                            <td>
+                                Name_val
+                            </td>
+                            <td>
+                            phone_val
+                            </td>
+                            <td>
+                                amount
+                            </td>
+                            <td>
+                            <button type="submit" name=details onclick="details(sl_no)">Details</button>
+                            </td>
+</tr>
